@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nav</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="language">Language</string>
+    <string name="darkmode">DarkMode</string>
+    <string name="logout">LogOut</string>
+    <string name="menu">Menu</string>
+    <string name="Title">Bassant</string>
+    <string name="Email">BassantSabry207@gamil.com</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
